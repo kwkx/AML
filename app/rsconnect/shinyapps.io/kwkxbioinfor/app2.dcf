@@ -1,0 +1,14 @@
+name: app2
+title: app2
+username:
+account: kwkxbioinfor
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5032428
+bundleId: 5459271
+url: https://kwkxbioinfor.shinyapps.io/app2/
+when: 1641970001.92519
+lastSyncTime: 1641970001.92519
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/logo.png
